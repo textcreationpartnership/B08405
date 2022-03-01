@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The redemption of time:, or, A word to the wise; perswading and earnestly entreating them, as they tender the salvation of their souls to all eternity, to mind the time past, present, and to come, before it be too late; drawn from those pathetical words of Moses, O that men were wise, that they understood this, that they would consider their later end. Deut. 32.29 / by R. B.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08405</idno>
+            <idno type="STC">Wing B169A</idno>
+            <idno type="STC">ESTC R224302</idno>
+            <idno type="EEBO-CITATION">64550902</idno>
+            <idno type="OCLC">ocm 64550902</idno>
+            <idno type="VID">184340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184340)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The redemption of time:, or, A word to the wise; perswading and earnestly entreating them, as they tender the salvation of their souls to all eternity, to mind the time past, present, and to come, before it be too late; drawn from those pathetical words of Moses, O that men were wise, that they understood this, that they would consider their later end. Deut. 32.29 / by R. B.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Clarke, at the South-Entrance of the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184340:1"/>
+            <head>The Redemption of Time: OR, <hi>A WORD TO THE WISE;</hi> Perſwading and earneſtly entreating them, as they tender the Salvation of their Souls to all eternity, to mind the time paſt, preſent, and to come, before it be too late; drawn from thoſe pathetical words of <hi>Moſes,</hi>
+            </head>
+            <epigraph>
+               <q>O that men were wiſe, that they underſtood this, that they would conſider their later end.</q>
+               <bibl>Deut. 32.29.</bibl>
+            </epigraph>
+            <list>
+               <item>O that Men would
+<list>
+                     <item>Be wiſe in lamenting things paſt with ſor<g ref="char:EOLhyphen"/>row, <hi>viz.</hi>
+                        <list>
+                           <item>The evils they have committed againſt
+<list>
+                                 <item>God in
+<list>
+                                       <item>thought,</item>
+                                       <item>word and</item>
+                                       <item>deed.</item>
+                                    </list>
+                                 </item>
+                                 <item>their neighbour in harming him in
+<list>
+                                       <item>body.</item>
+                                       <item>ſoul.</item>
+                                       <item>fame.</item>
+                                       <item>ſubſtance.</item>
+                                    </list>
+                                 </item>
+                                 <item>themſelves by
+<list>
+                                       <item>ſinning without fear.</item>
+                                       <item>proceeding without ſhame.</item>
+                                       <item>perſevering without remorſe.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The good they have omitted in
+<list>
+                                 <item>rooting out vices riſing out of
+<list>
+                                       <item>nature.</item>
+                                       <item>frailty.</item>
+                                       <item>malice.</item>
+                                    </list>
+                                 </item>
+                                 <item>not getting vertue for to
+<list>
+                                       <item>rule paſſions.</item>
+                                       <item>break evil cuſtoms.</item>
+                                       <item>overcome evil occaſions.</item>
+                                    </list>
+                                 </item>
+                                 <item>not ſerving God as
+<list>
+                                       <item>nature bound them.</item>
+                                       <item>grace moved them.</item>
+                                       <item>promiſe in baptiſm urged them.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The time they have loſt, then which nothing is more
+<list>
+                                 <item>precious to
+<list>
+                                       <item>gain heaven.</item>
+                                       <item>avoid hell.</item>
+                                       <item>leſſen temporal pains.</item>
+                                    </list>
+                                 </item>
+                                 <item>ſlippery, becauſe time
+<list>
+                                       <item>paſt is ended.</item>
+                                       <item>to come is not begun.</item>
+                                       <item>preſent is but a moment.</item>
+                                    </list>
+                                 </item>
+                                 <item>irrecoverable, either by
+<list>
+                                       <item>price,</item>
+                                       <item>power or</item>
+                                       <item>prayer.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The death of Chriſt,
+<list>
+                                 <item>by his enemies cruelty, becauſe
+<list>
+                                       <item>the man was innocent.</item>
+                                       <item>the manner unmerciful.</item>
+                                       <item>the malice exceſſive.</item>
+                                    </list>
+                                 </item>
+                                 <item>by his friends ungratefully, becauſe they either
+<list>
+                                       <item>betrayed him.</item>
+                                       <item>denied him.</item>
+                                       <item>fled from him.</item>
+                                    </list>
+                                 </item>
+                                 <item>for his friends and enemies willingly,
+<list>
+                                       <item>to ſave them from hell.</item>
+                                       <item>to procure them grace.</item>
+                                       <item>to buy them heaven.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Underſtand things pre<g ref="char:EOLhyphen"/>ſent with ſhame, <hi>viz.</hi>
+                        <list>
+                           <item>the multitude of Gods benefits in
+<list>
+                                 <item>ſoul, by
+<list>
+                                       <item>curing it from ſin.</item>
+                                       <item>enduing it with grace.</item>
+                                       <item>helping it with Sacraments.</item>
+                                    </list>
+                                 </item>
+                                 <item>body, by keeping it
+<list>
+                                       <item>from infinite diſeaſes.</item>
+                                       <item>from maims and deformities.</item>
+                                       <item>from want and neceſſities.</item>
+                                    </list>
+                                 </item>
+                                 <item>goods, by
+<list>
+                                       <item>ſubſtance.</item>
+                                       <item>children.</item>
+                                       <item>friends.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The vanity of the world, whereof the
+<list>
+                                 <item>pleaſures are
+<list>
+                                       <item>few.</item>
+                                       <item>ſhort.</item>
+                                       <item>damnable.</item>
+                                    </list>
+                                 </item>
+                                 <item>miſeries are
+<list>
+                                       <item>infinite in number.</item>
+                                       <item>grievous in quality.</item>
+                                       <item>common in experience.</item>
+                                    </list>
+                                 </item>
+                                 <item>fruits are
+<list>
+                                       <item>contempt of God.</item>
+                                       <item>carleſneſs of the ſoul.</item>
+                                       <item>final perdition.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Their frailty in ſinning by reaſon of the
+<list>
+                                 <item>fleſh that
+<list>
+                                       <item>followeth ſenſe and appetite.</item>
+                                       <item>reſiſteth reaſon and grace.</item>
+                                       <item>betrayeth the ſoul.</item>
+                                    </list>
+                                 </item>
+                                 <item>devil, whoſe
+<list>
+                                       <item>malice is implacable.</item>
+                                       <item>deceits are infinite.</item>
+                                       <item>aſſaults continual.</item>
+                                    </list>
+                                 </item>
+                                 <item>world, that miniſtereth
+<list>
+                                       <item>occaſions of ſin.</item>
+                                       <item>oppreſſions of vertue.</item>
+                                       <item>cumbers of body and mind.</item>
+                                    </list>
+                                 </item>
+                                 <item>infancy is a dream without uſe of
+<list>
+                                       <item>will.</item>
+                                       <item>memory.</item>
+                                       <item>underſtanding.</item>
+                                    </list>
+                                 </item>
+                                 <item>youth is a madneſs full of
+<list>
+                                       <item>idle words.</item>
+                                       <item>roving thoughts.</item>
+                                       <item>diſordered deeds.</item>
+                                    </list>
+                                 </item>
+                                 <item>manhood is a combate with
+<list>
+                                       <item>evil cuſtoms of things paſt.</item>
+                                       <item>occaſions of things preſent.</item>
+                                       <item>fear of danger and evil to come.</item>
+                                    </list>
+                                 </item>
+                                 <item>age is a ſickneſs wherein the
+<list>
+                                       <item>body languiſheth.</item>
+                                       <item>ſenſes fail.</item>
+                                       <item>judgment impaireth.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Provide for things to come with fear of
+<list>
+                           <item>The day of death, then which no<g ref="char:EOLhyphen"/>thing is more
+<list>
+                                 <item>certain to
+<list>
+                                       <item>ſever us from the body.</item>
+                                       <item>cut us off from the world.</item>
+                                       <item>ſummon us before the judge.</item>
+                                    </list>
+                                 </item>
+                                 <item>uncertain
+<list>
+                                       <item>in what manner.</item>
+                                       <item>in what ſtate.</item>
+                                       <item>in what time and place.</item>
+                                    </list>
+                                 </item>
+                                 <item>bitter, by reaſon of
+<list>
+                                       <item>the pangs of the body.</item>
+                                       <item>the remorſe of conſcience.</item>
+                                       <item>the fear of damnation.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The appearance before the Judge, whoſe
+<list>
+                                 <item>wiſdom is infallible, for that it
+<list>
+                                       <item>ſeeth into all places.</item>
+                                       <item>ſearcheth the hearts of all perſons.</item>
+                                       <item>knoweth the courſe of all times.</item>
+                                    </list>
+                                 </item>
+                                 <item>juſtice is inflexible, for that his
+<list>
+                                       <item>mercy was refuſed.</item>
+                                       <item>injuries muſt be revenged.</item>
+                                       <item>enemies muſt be confounded.</item>
+                                    </list>
+                                 </item>
+                                 <item>preſence is unavoidable, for that
+<list>
+                                       <item>Angels withold.</item>
+                                       <item>the Devils draw back.</item>
+                                       <item>no place will protect.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The danger of hell, where the
+<list>
+                                 <item>place is
+<list>
+                                       <item>dark.</item>
+                                       <item>uneaſie.</item>
+                                       <item>loathſome.</item>
+                                    </list>
+                                 </item>
+                                 <item>torments are
+<list>
+                                       <item>infinite.</item>
+                                       <item>unceſſant.</item>
+                                       <item>everlaſting.</item>
+                                    </list>
+                                 </item>
+                                 <item>company conſiſteth of
+<list>
+                                       <item>the devils.</item>
+                                       <item>the wicked.</item>
+                                       <item>the worm of conſcience.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>The loſs of hea<g ref="char:EOLhyphen"/>ven, where the
+<list>
+                                 <item>place is
+<list>
+                                       <item>delightſome.</item>
+                                       <item>ample.</item>
+                                       <item>glorious.</item>
+                                    </list>
+                                 </item>
+                                 <item>company is
+<list>
+                                       <item>the Trinity.</item>
+                                       <item>the humanity of Chriſt.</item>
+                                       <item>all the Saints.</item>
+                                    </list>
+                                 </item>
+                                 <item>felicity is ſuch as
+<list>
+                                       <item>neither eye hath ſeen.</item>
+                                       <item>nor ear hath heard.</item>
+                                       <item>nor heart hath conceived.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <closer>
+               <signed>By <hi>R. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Clarke,</hi> at the South-entrance of the Royal Exchange. <hi>1663.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
